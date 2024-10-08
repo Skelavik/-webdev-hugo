@@ -1,0 +1,4 @@
+baseURL = 'http://localhost.org/'
+languageCode = 'ru'
+title = 'Породы кошек'
+theme = 'ananke'

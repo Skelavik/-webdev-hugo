@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Породы кошек</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Породы кошек</description>
+    <generator>Hugo</generator>
+    <language>ru</language>
+    <lastBuildDate>Mon, 30 Sep 2024 10:29:39 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Mon, 30 Sep 2024 10:29:39 +0300</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Британская порода</title>
+      <link>http://localhost:1313/posts/cat_1/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/cat_1/</guid>
+      <description>&lt;h2 id=&#34;британский-кот&#34;&gt;Британский кот&lt;/h2&gt;&#xA;&lt;p&gt;Британская короткошёрстная кошка — это порода кошек среднего размера с крепким приземистым корпусом и массивными короткими лапами.&lt;/p&gt;&#xA;&lt;p&gt;Отличительной особенностью породы является их плюшевая шёрстка, которая достигается за счёт того, что остевой волос одинаковый по длине с подшёрстком. Шерсть короткая, очень густая, не очень прилегает к телу.&lt;/p&gt;&#xA;&lt;p&gt;Существует около 60 вариантов окрасов: голубой, лиловый, чёрный, шоколадный, бежевый, кремовый, черепаховый, шиншилловый, табби и многие другие.&lt;/p&gt;&#xA;&lt;p&gt;Британские кошки обладают аристократичным характером: надменные и вальяжные, весьма самостоятельные, обладающие утончёнными манерами и чувством такта.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
